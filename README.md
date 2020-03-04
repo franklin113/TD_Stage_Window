@@ -3,7 +3,6 @@
 ## Features
 
 Create media items and map them onto outputs.
-Transform media and outputs.
 
 
 ### Shortcuts
