@@ -7,8 +7,8 @@ Transform media and outputs.
 
 ### Shortcuts
 
-Ctrl.1 - Toggle Selection of Cues/Outputs
+Ctrl.1 - Toggle Selection of Cues/Outputs. Can also be set in "Stage Settings/ Selectable Type".
 
-Hold option / alt while dragging snaps to increments assigned by the user. ( change setting in Stage Settings/ Translate Increment)
+Hold option / alt while dragging snaps to increments assigned by the user. ( change setting in "Stage Settings/ Translate Increment")
 
 Shift click for multiselection 
