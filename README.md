@@ -28,6 +28,7 @@ Shift click for multiselection. Multiselect + Middle Button Uniformly scales all
   - A line for both X and Y show up when you snap
   - Snap to any piece of geometry in the scene
  - As part of the cleanup process, disabling some parameters that are currently not doing anything, but are referenced.
+ - Defaul look now has a very dark grid color instead of none.
 
 ## 0.01
 ### Initial Release
