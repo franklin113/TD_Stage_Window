@@ -21,8 +21,9 @@ Shift click for multiselection. Multiselect + Middle Button Uniformly scales all
 ## 0.02
 ### Snapping Feature Update
 
-Fixed a clone bug. Output item no longer uses a null Transform.
-
+- Stage Items save state upon restart
+- Snapping Feature added
+  - Toggle snapping on and off via stage settings or ctrl.n
 
 ## 0.01
 ### Initial Release
