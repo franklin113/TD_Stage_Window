@@ -24,6 +24,8 @@ Shift click for multiselection. Multiselect + Middle Button Uniformly scales all
 - Stage Items save state upon restart
 - Snapping Feature added
   - Toggle snapping on and off via stage settings or ctrl.n
+  - A line for both X and Y show up when you snap
+  - Snap to any piece of geometry in the scene
 
 ## 0.01
 ### Initial Release
