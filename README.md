@@ -17,6 +17,11 @@ Shift click for multiselection. Multiselect + Middle Button Uniformly scales all
 
 # Version History
 
+## 0.03
+### Updated Snapping
+- Can now snap to center of other objects' either x or y axis.
+- Delayed the rendering of lines so they react properly
+
 ## 0.02
 ### Snapping Feature Update
 
