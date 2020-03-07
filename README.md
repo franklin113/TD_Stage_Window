@@ -26,6 +26,7 @@ Backspace - Deletes media items or outputs
 
 - Output and media items can now be named
   - Outputs have display labels
+  - Note- There's currently a bug with the alpah on these labels. 
 
 
 ## 0.03
