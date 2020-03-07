@@ -24,7 +24,7 @@ NOTE: Multiselect does NOT function properly at all with snapping enabled right 
 
 - Can now snap to center of other objects' either x or y axis.
 - Delayed the rendering of lines so they react properly.
-- Media Items now have read-only "Computed Resolution" parameters which computes the bounds after scaling/
+- Media Items now have read-only "Computed Resolution" parameters which computes the bounds post scale.
 
 ## 0.02
 ### Snapping Feature Update
