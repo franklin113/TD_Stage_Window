@@ -15,7 +15,9 @@ Ctrl.N - Toggle Snapping
 Hold option / alt while dragging snaps to increments assigned by the user. "Stage Settings/ Translate Increment"
 
 Shift click for multiselection. Multiselect + Middle Button Uniformly scales all items at once.
+
 NOTE: Multiselect does NOT function properly at all with snapping enabled right now.
+
 # Version History
 
 ## 0.03
