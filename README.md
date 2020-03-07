@@ -4,6 +4,9 @@
 
 Create media items and map them onto outputs.
 
+Snapping - 
+
+You can now snap stage items to other stage items. 
 
 ### Shortcuts
 
