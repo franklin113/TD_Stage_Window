@@ -18,12 +18,15 @@ Shift click for multiselection. Multiselect + Middle Button Uniformly scales all
 
 NOTE: Multiselect does NOT function properly at all with snapping enabled right now.
 
+Backspace - Deletes media items or outputs
+
 # Version History
 
 ## 0.04
 
 - Output and media items can now be named
   - Outputs have display labels
+  - Note- There's currently a bug with the alpha on these labels so the background may not be transparent.
 
 
 ## 0.03
