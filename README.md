@@ -23,19 +23,20 @@ NOTE: Multiselect does NOT function properly at all with snapping enabled right 
 ### 0.03
 
 - Can now snap to center of other objects' either x or y axis.
-- Delayed the rendering of lines so they react properly
+- Delayed the rendering of lines so they react properly.
+- Media Items now have read-only "Computed Resolution" parameters which computes the bounds after scaling/
 
 ## 0.02
 ### Snapping Feature Update
 
-- Stage Items save state upon restart
-- Snapping Feature added
-  - Toggle snapping on and off via stage settings or ctrl.n
-  - A line for both X and Y show up when you snap
-  - Snap to any piece of geometry in the scene
+- Stage Items save state upon restart.
+- Snapping Feature added.
+  - Toggle snapping on and off via stage settings or ctrl.n.
+  - A line for both X and Y show up when you snap.
+  - Snap to any piece of geometry in the scene.
  - As part of the cleanup process, disabling some parameters that are currently not doing anything, but are referenced.
  - Defaul look now has a very dark grid color instead of none.
-- Zoom Sensitivity parameter added to stage settings
+- Zoom Sensitivity parameter added to stage settings.
 ## 0.01
 ### Initial Release
 
