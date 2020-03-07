@@ -11,6 +11,7 @@ You can now snap stage items to other stage items.
 ### Shortcuts
 
 Ctrl.1 - Toggle Selection of Cues/Outputs. "Stage Settings/ Selectable Type"
+Ctrl.N - Toggle Snapping
 
 Hold option / alt while dragging snaps to increments assigned by the user. "Stage Settings/ Translate Increment"
 
