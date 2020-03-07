@@ -20,7 +20,13 @@ NOTE: Multiselect does NOT function properly at all with snapping enabled right 
 
 # Version History
 
-### 0.03
+## 0.04
+
+- Output and media items can now be named
+  - Outputs have display labels
+
+
+## 0.03
 
 - Can now snap to center of other objects' either x or y axis.
 - Delayed the rendering of lines so they react properly.
