@@ -18,4 +18,8 @@ Shift click for multiselection. Multiselect + Middle Button Uniformly scales all
 
 # Version History
 ### 0.01
-Initial Release
+# Initial Release
+
+
+### 0.02
+# Snapping Feature Update
