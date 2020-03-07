@@ -23,3 +23,5 @@ Shift click for multiselection. Multiselect + Middle Button Uniformly scales all
 
 ## 0.02
 ### Snapping Feature Update
+
+Fixed a clone bug. Output item no longer uses a null Transform.
