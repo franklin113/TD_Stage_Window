@@ -25,7 +25,7 @@ Backspace - Deletes media items or outputs
 ## 0.06
 ### User Interface Update
 - Classes now have buttons to edit on main comp
-- Media Items' settings now has a "Stacking Order" page.
+- Media Item settings now has a "Stacking Order" page.
   - You have buttons to allow you to change the stacking order of each item.
 - Stacking order methods within the Manager class have been updated to function properly.
 
