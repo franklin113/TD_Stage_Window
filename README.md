@@ -32,6 +32,8 @@ Backspace - Deletes media items or outputs
 - Stacking order methods within the Manager class have been updated to function properly.
 - Main Comp now has a "New Media Item Expression" parameter. When you create a new piece of media, this expression is assigned to it's top parameter. This way, you can automatically have them select some part of your system, or keep them default.
 - Added a "Path To Outputs" parameter on the main Comp. In your build, you'd probably select this comp and handle it as you wish. 
+- Added "Selected Media Item Index" parameter to iparStage. You can see this used in Example 1.
+- Example 1 is complete - assign your "New Media Item Expression" to automatically select movie engine comp output nulls. Use "Selected Media Item Index to then select the movie engine comp itself, allowing you to control the selected item.
 ## 0.04
 
 - Output and media items can now be named
