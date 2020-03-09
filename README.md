@@ -31,7 +31,7 @@ Backspace - Deletes media items or outputs
   - You have buttons to allow you to change the stacking order of each item.
 - Stacking order methods within the Manager class have been updated to function properly.
 - Main Comp now has a "New Media Item Expression" parameter. When you create a new piece of media, this expression is assigned to it's top parameter. This way, you can automatically have them select some part of your system, or keep them default.
-
+- Added a "Path To Outputs" parameter on the main Comp. In your build, you'd probably select this comp and handle it as you wish. 
 ## 0.04
 
 - Output and media items can now be named
