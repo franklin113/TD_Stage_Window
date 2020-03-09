@@ -24,6 +24,12 @@ Backspace - Deletes media items or outputs
 
 # Version History
 
+## 0.07
+### Callback System
+- The Media Items and Output Items now have their own callback dats.
+  - Callbacks for both include "OnCreate" and "OnDestroy"
+  - Use these to do other things in your program instead of editing the classes
+
 ## 0.06
 ### User Interface Update
 - Classes now have buttons to edit on main comp
