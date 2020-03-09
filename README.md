@@ -35,6 +35,7 @@ Backspace - Deletes media items or outputs
 - Added "Selected Media Item Index" parameter to iparStage. You can see this used in Example 1.
 - Example 1 is complete - assign your "New Media Item Expression" to automatically select movie engine comp output nulls. Use "Selected Media Item Index to then select the movie engine comp itself, allowing you to control the selected item.
 - Buttons added to customize the keyboard shortcuts and drop script.
+- Disabled "Zoom Follows Mouse" because it was terrible. Once I can find a better approach it will come back.
 ## 0.04
 
 - Output and media items can now be named
