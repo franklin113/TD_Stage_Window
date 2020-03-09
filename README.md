@@ -12,6 +12,8 @@ Ctrl.1 - Toggle Selection of Cues/Outputs. "Stage Settings/ Selectable Type"
 
 Ctrl.N - Toggle Snapping
 
+Ctrl.D - Duplicate stage items
+
 Hold option / alt while dragging snaps to increments assigned by the user. "Stage Settings/ Translate Increment"
 
 Shift click for multiselection. Multiselect + Middle Button Uniformly scales all items at once.
@@ -22,6 +24,18 @@ Backspace - Deletes media items or outputs
 
 # Version History
 
+## 0.06
+### User Interface Update
+- Classes now have buttons to edit on main comp
+- Media Item settings now has a "Stacking Order" page.
+  - You have buttons to allow you to change the stacking order of each item.
+- Stacking order methods within the Manager class have been updated to function properly.
+- Main Comp now has a "New Media Item Expression" parameter. When you create a new piece of media, this expression is assigned to it's top parameter. This way, you can automatically have them select some part of your system, or keep them default.
+- Added a "Path To Outputs" parameter on the main Comp. In your build, you'd probably select this comp and handle it as you wish. 
+- Added "Selected Media Item Index" parameter to iparStage. You can see this used in Example 1.
+- Example 1 is complete - assign your "New Media Item Expression" to automatically select movie engine comp output nulls. Use "Selected Media Item Index to then select the movie engine comp itself, allowing you to control the selected item.
+- Buttons added to customize the keyboard shortcuts and drop script.
+- Disabled "Zoom Follows Mouse" because it was terrible. Once I can find a better approach it will come back.
 ## 0.04
 
 - Output and media items can now be named
