@@ -12,6 +12,8 @@ Ctrl.1 - Toggle Selection of Cues/Outputs. "Stage Settings/ Selectable Type"
 
 Ctrl.N - Toggle Snapping
 
+Ctrl.D - Duplicate stage items
+
 Hold option / alt while dragging snaps to increments assigned by the user. "Stage Settings/ Translate Increment"
 
 Shift click for multiselection. Multiselect + Middle Button Uniformly scales all items at once.
