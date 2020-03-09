@@ -24,6 +24,9 @@ Backspace - Deletes media items or outputs
 
 # Version History
 
+## 1.0
+### Functional Setup
+
 ## 0.07
 ### Callback System
 - The Media Items and Output Items now have their own callback dats.
