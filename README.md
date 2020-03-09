@@ -30,6 +30,7 @@ Backspace - Deletes media items or outputs
 - Media Item settings now has a "Stacking Order" page.
   - You have buttons to allow you to change the stacking order of each item.
 - Stacking order methods within the Manager class have been updated to function properly.
+- Main Comp now has a "New Media Item Expression" parameter. When you create a new piece of media, this expression is assigned to it's top parameter. This way, you can automatically have them select some part of your system, or keep them default.
 
 ## 0.04
 
