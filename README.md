@@ -25,6 +25,11 @@ NOTE: Multiselect does NOT function properly at all with snapping enabled at the
 Backspace - Deletes media items or outputs
 
 # Version History
+## 1.01
+-Added Render Settings Tab
+  - Disable rendering of the main stage
+  - Disable preview of outputs
+
 
 ## 1.0
 ### Cleaned Up and Released
