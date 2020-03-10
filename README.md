@@ -18,7 +18,7 @@ Hold option / alt while dragging snaps to increments assigned by the user. "Stag
 
 Shift click for multiselection. Multiselect + Middle Button Uniformly scales all items at once.
 
-NOTE: Multiselect does NOT function properly at all with snapping enabled right now.
+NOTE: Multiselect does NOT function properly at all with snapping enabled at the moment. I'll fix it soon.
 
 Backspace - Deletes media items or outputs
 
