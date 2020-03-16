@@ -15,7 +15,7 @@ Take a look at the Examples folder, there are some examples of how you might use
 
 ## Additional Features
 
-Stacking Order
+ - User defined stacking order
 
 
 
