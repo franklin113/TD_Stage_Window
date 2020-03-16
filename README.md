@@ -1,5 +1,18 @@
 # TD_Stage_Window
 
+## Description
+The Stage Window component provides a workspace to drop "Media Items" or "Output Items" down to freely composite, layout, and map your media to outputs. 
+
+### How does it work?
+First, drop an "Output Item" down and a "Media Item" within it's bounds. The output contains a camera that captures anything within it's bounds, so your media will be rendered in place.
+
+### What can you do with it?
+It can be used however you see fit. Use it for cropping, scaling, output preview, compositing, or anything a stage layout would be helpful for.  One obvious use case would be splicing up custom resolution media to fit within standard resolutions. 
+
+### How do I get started?
+Take a look at the Examples folder, there are some examples of how you might use it. The most important point here is that all you are basically just assigning any top to the top parameter of the "Media Item". There are of course, other features, but that's the general idea.
+
+
 ## Features
 
 Create media items and map them onto outputs.
