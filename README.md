@@ -10,12 +10,12 @@ First, drop an "Output Item" down and a "Media Item" within it's bounds. The out
 It can be used however you see fit. Use it for cropping, scaling, output preview, compositing, or anything a stage layout would be helpful for.  One obvious use case would be splicing up custom resolution media to fit within standard resolutions. 
 
 ### How do I get started?
-Take a look at the Examples folder, there are some examples of how you might use it. The most important point here is that all you are basically just assigning any top to the top parameter of the "Media Item". There are of course, other features, but that's the general idea.
+Take a look at the Examples folder, there are some examples of how you might use it. The most important point here is that all you are basically doing is just assigning any top to the top parameter of the "Media Item". There are, of course other features, but that's the general idea.
 
 
-## Features
+## Additional Features
 
-Create media items and map them onto outputs.
+Stacking Order
 
 
 
