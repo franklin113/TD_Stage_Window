@@ -42,6 +42,10 @@ NOTE: Multiselect does NOT function properly at all with snapping enabled at the
 Backspace - Deletes media items or outputs
 
 # Version History
+
+## 1.02
+- Alpha compositing now works properly
+
 ## 1.01
 -Added Render Settings Tab
   - Disable rendering of the main stage
